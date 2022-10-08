@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, I'm Dheerendra Signh</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=02dheerendra&label=Profile%20views&color=0e75b6&style=flat" alt="02dheerendra" /> </p>
 
-(img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/207/207963.gif")
+<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/207/207963.gif")
 <p align="left"> <a href="https://twitter.com/02_dheerendra" target="blank"><img src="https://img.shields.io/twitter/follow/02_dheerendra?logo=twitter&style=for-the-badge" alt="02_dheerendra" /></a> </p>
 
 - 🌱 I’m currently learning **Java,C++,Python**
